@@ -1,4 +1,4 @@
-# Introdução à Lógica de Programação em Python  (IEPRO)
+# Python para Machine Learning  (IEPRO)
 
 <h3>
   Participei do curso de Python para Machine Learning na plataforma Lead DELL e realizado pelo Instituto de Estudos, Pesquisas e Projetos da UECE (IEPRO)
